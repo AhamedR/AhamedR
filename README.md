@@ -1,6 +1,15 @@
 ## Hi there 👋 Im Ahamed [![verified](https://i.imgur.com/jiUIXgp.gif)](#)
 
+Top Skills 🌟
 
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="22" width="22" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://github.com/AhamedR) &nbsp;
+[<img height="20" width="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://github.com/AhamedR) &nbsp; 
+<hr>
 
 Reach me on 😎
 
