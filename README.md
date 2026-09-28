@@ -16,7 +16,6 @@ Reach me on 😎
 [<img height="20" width="20" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8009816/ahamed-rasheed) &nbsp;
 [<img height="20" width="20" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahamed-rasheed/) &nbsp;
 [<img height="20" width="20" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/a.h.a.m.e.d_r/) &nbsp;
-[<img height="20" width="20" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AhamedRasheed3) &nbsp;
 [<img height="20" width="20" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meetup.svg" />](https://www.meetup.com/members/246954686/) &nbsp;
 
 ![counter](https://enkmlawdw4b0bf9.m.pipedream.net/)
